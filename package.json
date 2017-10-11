@@ -19,11 +19,8 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@google-cloud/vision": "^0.12.0",
     "expo": "^21.0.0",
-    "merge-images": "^1.0.5",
     "react": "16.0.0-alpha.12",
-    "react-cloud-vision-api": "^0.3.0",
     "react-native": "^0.48.4"
   }
 }
